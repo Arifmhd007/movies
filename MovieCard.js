@@ -13,5 +13,4 @@ function MovieCard({poster_path,original_title}) {
   </div>
   )
 }
-
 export default MovieCard
